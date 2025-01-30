@@ -1,0 +1,21 @@
+nombre,apellido1,apellido2,alias,edad,email,genero,oficio
+Jamie,Simmons,Petty,Dennis,48,angelalucas@example.org,Femenino,Electricista
+Dorothy,Sheppard,Sutton,Alexis,27,lisa86@example.org,Femenino,Camarero
+Levi,Rosario,Joseph,Tiffany,75,katherine91@example.org,Masculino,Camarero
+Doris,Hall,Stewart,Phillip,51,ericgeorge@example.net,Masculino,Estudiante
+Barbara,Hendricks,Greer,Elizabeth,76,gregoryhowell@example.org,Femenino,Estudiante
+Joanna,Jimenez,Coleman,Julian,,medwards@example.com,Masculino,Profesor
+Julie,Miller,Berger,Debra,,bhoffman@example.net,Masculino,Estudiante
+Rita,Robinson,Parker,Mary,,imccall@example.org,Masculino,Medico
+,Bailey,Hoffman,Cole,45,jennifer51@example.org,No binario,Electricista
+,Carroll,Graham,Alexander,25,uhopkins@example.net,Femenino,Profesor
+Brittney,,,Yolanda,40,iallen@example.org,Femenino,Electricista
+David,Castillo,Jackson,Sara,28,michelle69@example.net,Femenino,Camarero
+Kimberly,,,Colton,44,parkerkatie@example.org,Femenino,Medico
+James,Keller,,Jonathan,24,bmeyer@example.net,Femenino,Estudiante
+Becky,Martinez,Williams,Shari,34,casey54@example.org,Masculino,Camarero
+Aaron,Ramirez,Parsons,Debra,52,phillip15@example.net,Masculino,Informatico
+Chad,Lopez,Kennedy,Mark,59,dylanjones@example.net,Femenino,Profesor
+Eric,Levine,Jordan,Carmen,26,jeffreyjensen@example.com,Femenino,Electricista
+Cassandra,Ward,Jones,Vanessa,27,david33@example.com,Masculino,Informatico
+Jason,Wright,Johnson,Linda,22,mistycochran@example.org,Masculino,Estudiante

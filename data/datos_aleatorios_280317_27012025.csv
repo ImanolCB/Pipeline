@@ -1,0 +1,21 @@
+nombre,apellido1,apellido2,alias,edad,email,genero,oficio
+Wanda,Gonzalez,Sexton,Kelly,73,johnsontodd@example.net,Masculino,Electricista
+Corey,,Moore,Mark,38,omoore@example.net,No binario,Camarero
+Teresa,Brown,Morris,Leah,22,murrayeric@example.com,Femenino,Electricista
+Leah,Johnston,Ellis,Laura,63,travis03@example.net,Femenino,Camarero
+Nicole,Sims,Moore,Mary,22,robertmartinez@example.com,No binario,Camarero
+Kenneth,Brown,King,David,30,sjones@example.net,No binario,Camarero
+William,Ruiz,Greene,Taylor,23,cassidy68@example.org,No binario,Estudiante
+Tyler,Golden,Smith,Michael,64,gary23@example.com,Femenino,Informatico
+Amanda,Elliott,Lawrence,Janet,61,colleen30@example.com,No binario,Electricista
+Deborah,Ryan,Lee,Alexander,63,allensarah@example.com,Masculino,Estudiante
+Angela,Hill,Prince,Martin,42,justinbarton@example.org,No binario,Electricista
+Paul,Wheeler,Hill,Valerie,31,taylor30@example.net,No binario,Medico
+Stacy,Neal,Drake,Brandon,,davidwilliams@example.com,Masculino,Electricista
+Jacob,Johnson,Whitehead,Travis,46,elizabeth14@example.org,No binario,Profesor
+Christopher,Burns,Webster,Kevin,35,scott49@example.com,Femenino,Medico
+Patricia,Bowers,Kirk,Mallory,21,alexa32@example.net,Femenino,Camarero
+Laura,Mitchell,Hudson,Susan,43,amolina@example.org,No binario,Camarero
+Mark,Hernandez,Mason,Deanna,45,wadebrandon@example.net,Masculino,Informatico
+Christopher,Barnett,Davis,Amy,38,greenmichelle@example.net,Femenino,Informatico
+Nicholas,Sparks,Hart,Samantha,28,thomasgonzalez@example.net,Masculino,Profesor

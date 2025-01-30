@@ -1,0 +1,88 @@
+/* assets/styles.css */
+
+/* Tema oscuro con círculos azules difuminados */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    background-image: radial-gradient(circle at 50% 50%, rgba(0, 188, 212, 0.2) 20%, rgba(0, 0, 0, 0.9) 70%), 
+                      radial-gradient(circle at 20% 20%, rgba(0, 188, 212, 0.2) 20%, rgba(0, 0, 0, 0.9) 70%), 
+                      radial-gradient(circle at 80% 30%, rgba(0, 188, 212, 0.2) 20%, rgba(0, 0, 0, 0.9) 70%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Estilo para el título principal */
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+}
+
+h1:hover {
+    color: #00bcd4;
+}
+
+/* Estilo para los subtítulos */
+h3 {
+    color: #f1f1f1;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Estilo para los contenedores de los gráficos */
+.graph-container {
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #101010;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilo para los gráficos */
+.dcc-graph {
+    border-radius: 10px;
+}
+
+/* Estilo responsive: Ajustes en dispositivos pequeños */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 30px;
+    }
+
+    .graph-container {
+        width: 95%;
+        padding: 15px;
+    }
+}
+
+/* Animación para los gráficos */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.dcc-graph {
+    animation: fadeIn 1s ease-out;
+}
+
+/* Efecto hover para los gráficos */
+.dcc-graph:hover {
+    box-shadow: 0px 4px 20px rgba(0, 188, 212, 0.5);
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+}
